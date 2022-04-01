@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/MainWindow/HomePage/PenMode">
+        <file>source/circle.jpg</file>
+        <file>source/line.jpg</file>
+        <file>source/pen.jpg</file>
+        <file>source/rectangle.jpg</file>
+    </qresource>
+</RCC>
